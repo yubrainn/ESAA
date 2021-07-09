@@ -50,3 +50,5 @@
 과제/pymldg/data/human_activity/features.txt
 *.txt
 pytorch_study/.ipynb_checkpoints/Part1-checkpoint.ipynb
+*.gz
+pytorch_study/.ipynb_checkpoints/Part2-checkpoint.ipynb
