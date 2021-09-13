@@ -88,3 +88,4 @@ pytorch_study/data/CIFAR_10/cifar-10-batches-py/test_batch
 pytorch_study/data/CIFAR_10/cifar-10-batches-py/batches.meta
 *.zip
 *.tsv
+*.pt
