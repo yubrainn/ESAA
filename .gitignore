@@ -86,3 +86,5 @@ pytorch_study/data/hymenoptera_data/train/ants/imageNotFound.gif
 pytorch_study/data/CIFAR_10_ag/cifar-10-batches-py/batches.meta
 pytorch_study/data/CIFAR_10/cifar-10-batches-py/test_batch
 pytorch_study/data/CIFAR_10/cifar-10-batches-py/batches.meta
+*.zip
+*.tsv
